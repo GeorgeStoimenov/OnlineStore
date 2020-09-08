@@ -1,0 +1,1 @@
+For complete the task I create a simple web page using HTML and SCC. The syling of the HTML document is in separate file style_products.css
