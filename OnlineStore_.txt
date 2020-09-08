@@ -1,1 +1,1 @@
-For complete the task I create a simple web page using HTML and SCC. The syling of the HTML document is in separate file style_products.css
+For completing the task I've create a simple web page using HTML and CSS. The syling of the HTML document is in separate file, called style_products.css. I've used some icons from "Font Awesome" to dipsplay the payment methods in the footer of the page. The navigation bar is with fixed position, so it is displayed all the time, while the user is scrolling the page. For a font I've used "PT Serif" from "Google Fonts" 
